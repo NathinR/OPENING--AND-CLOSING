@@ -1,5 +1,6 @@
-## OPENING--AND-CLOSING
-### Aim
+# Exp 10 OPENING--AND-CLOSING
+### Date: 12-04-2024
+## Aim
 To implement Opening and Closing using Python and OpenCV.
 
 ### Software Required
